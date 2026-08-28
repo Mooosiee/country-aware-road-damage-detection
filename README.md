@@ -224,8 +224,6 @@ country-aware-road-damage-detection/
 
 ---
 
----
-
 # Future Work
 
 Several research directions remain open.
