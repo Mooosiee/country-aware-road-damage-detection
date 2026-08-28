@@ -233,7 +233,7 @@ Several research directions remain open.
 
 # Acknowledgements
 
-This work was completed as part of an undergraduate research internship at **ABV-IIITM Gwalior**.
+This work was completed as part of an undergraduate research at **ABV-IIITM Gwalior**.
 
 The implementation and experimental pipeline build upon the work presented in:
 
