@@ -216,6 +216,11 @@ country-aware-road-damage-detection/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+# Resources
+
+- [Research Report & Presentation Slides (Google Drive)](https://drive.google.com/drive/folders/1n9i8FT670IogOq8xZc97BpXEphgYSKdV?usp=drive_link)
 
 ---
 
